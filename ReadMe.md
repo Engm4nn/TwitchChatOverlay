@@ -12,7 +12,7 @@ Du kan downloade den seneste version af Streaming Universet Chatoverlay her:
 - [Download til Windows (64-bit)](link-til-din-release) 
 
 ### macOS
-- [Download til macOS (Apple Silicon/M1/M2)](link-til-din-release)
+- [Download til macOS (Apple Silicon/M1/M2/M3/M4)](link-til-din-release)
 
 ## Funktioner
 
