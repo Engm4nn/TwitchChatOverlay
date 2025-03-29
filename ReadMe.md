@@ -1,6 +1,6 @@
 # Streaming Universet Chatoverlay
 
-!<img src="Logo.png" alt="logo" width="100"/>
+!<img src="assets/Logo.png" alt="logo" width="100"/>
 
 En specialdesignet chat-overlay applikation til Streaming Universet community'et. Denne applikation giver dig mulighed for at vise din Twitch-chat oven på dine fullscreen spil og applikationer.
 
