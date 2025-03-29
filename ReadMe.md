@@ -9,10 +9,10 @@ En specialdesignet chat-overlay applikation til Streaming Universet community'et
 Du kan downloade den seneste version af Streaming Universet Chatoverlay her:
 
 ### Windows
-- [Download til Windows (64-bit)](link-til-din-release) 
+- [Download til Windows (64-bit)](https://github.com/Engm4nn/TwitchChatOverlay/releases/tag/Windows) 
 
 ### macOS
-- [Download til macOS (Apple Silicon/M1/M2/M3/M4)](link-til-din-release)
+- [Download til macOS (Apple Silicon/M1/M2/M3/M4)](https://github.com/Engm4nn/TwitchChatOverlay/releases/tag/MacOS)
 
 ## Funktioner
 
